@@ -1,2 +1,3 @@
 # hello-swift
-Swift commandline example with homebrew
+
+Swift commandline example with homebrew.
